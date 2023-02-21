@@ -1,0 +1,107 @@
+/* Add your CSS styling here */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+  }
+  header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 30px;
+  }
+  section {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  h1 {
+    text-align: center;
+    font-size: 36px;
+    margin-bottom: 20px;
+  }
+  p {
+    font-size: 18px;
+    line-height: 1.5;
+  }
+  a {
+    color: blue;
+    text-decoration: none;
+  }
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  li {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+/* styling for my templat
+h1
+{color: navy;}
+*/
+body 
+{ background-color: #f3f1f1;
+margin:0em;}
+
+/*h3
+{font-style: italic;
+border-bottom: 3px solid gray;
+border-top: 5px dashed rgb(243, 241, 241);
+}*/
+
+p{color:green;
+font-style:italic;}
+
+/* element name copyright*/
+#copyright
+{text-align:center ; font-size:80%;color:grey}
+
+#copyright a
+{font-size:100%;color:grey}
+
+
+/* class*/
+
+.right 
+{text-align:right;}
+
+/* An asterix changes everything*/
+
+/* * {margin: .5em 1em;}*/
+
+a:hover
+{
+    color:fuchsia
+}
+
+header
+{
+border-bottom:2px solid red;
+
+}
+/* Where unordered list, display inline and format*/
+ul li 
+{
+display:inline;
+}
+
+/*where unordered list and anchor*/
+ul a
+{
+font-size:200%;
+text-decoration:none;
+border: 2px solid orange;
+border-radius: 1em;
+margin-right:50px;
+padding: 10px;
+background-color: lightgray;
+color:black;
+}
+
+
+img
+{
+    float:left;
+    margin-right: 1em;
+}
