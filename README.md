@@ -1,3 +1,4 @@
 # IOT
 Internet of Things
-sex?
+
+Group with Kieran, Sophie, Tori and C.
