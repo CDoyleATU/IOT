@@ -28,7 +28,11 @@ Project development | Con | I have emailed Mary about Solidworks License |
 ## Action Items
 | Done? | Item | Responsible | Due Date |
 | ---- | ---- | ---- | ---- |
-| | item | who | due_date |
+| | Sketches of what it will look like | Sophie (Maybe Kieran) | Next meeting |
+| | Write 1 page of research with refences | Everyone | Next meeting |
+| | Identify what we have to do and to what level of detail the prototype needs to be.| Everyone | Next meeting |
+
+
 
 ## Other Notes & Information
-N/A
+| | Next meeting booked for 1300-1400 9.3.2023 | Everyone |
