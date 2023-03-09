@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Con Doyle\\OneDrive - Atlantic TU\\Sem1\\Intro_to_Programming1_Sem1\\IOT\\Code\\CodeDemo2\\CodeDemo2.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Con Doyle\\OneDrive - Atlantic TU\\Sem1\\Intro_to_Programming1_Sem1\\IOT\\Code\\CodeDemo2\\CodeDemo2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Con Doyle\\OneDrive - Atlantic TU\\Sem1\\Intro_to_Programming1_Sem1\\IOT\\Code\\CodeDemo2\\CodeDemo2.csproj",
+        "projectName": "CodeDemo2",
+        "projectPath": "C:\\Users\\Con Doyle\\OneDrive - Atlantic TU\\Sem1\\Intro_to_Programming1_Sem1\\IOT\\Code\\CodeDemo2\\CodeDemo2.csproj",
+        "packagesPath": "C:\\Users\\Con Doyle\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Con Doyle\\OneDrive - Atlantic TU\\Sem1\\Intro_to_Programming1_Sem1\\IOT\\Code\\CodeDemo2\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Con Doyle\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

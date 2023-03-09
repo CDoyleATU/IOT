@@ -1,0 +1,15 @@
+C:\Users\Con Doyle\OneDrive - Atlantic TU\Sem1\Intro_to_Programming1_Sem1\IOT\Code\CodeDemo1\obj\Debug\net6.0\CodeDemo1.csproj.AssemblyReference.cache
+C:\Users\Con Doyle\OneDrive - Atlantic TU\Sem1\Intro_to_Programming1_Sem1\IOT\Code\CodeDemo1\obj\Debug\net6.0\CodeDemo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Con Doyle\OneDrive - Atlantic TU\Sem1\Intro_to_Programming1_Sem1\IOT\Code\CodeDemo1\obj\Debug\net6.0\CodeDemo1.AssemblyInfoInputs.cache
+C:\Users\Con Doyle\OneDrive - Atlantic TU\Sem1\Intro_to_Programming1_Sem1\IOT\Code\CodeDemo1\obj\Debug\net6.0\CodeDemo1.AssemblyInfo.cs
+C:\Users\Con Doyle\OneDrive - Atlantic TU\Sem1\Intro_to_Programming1_Sem1\IOT\Code\CodeDemo1\obj\Debug\net6.0\CodeDemo1.csproj.CoreCompileInputs.cache
+C:\Users\Con Doyle\OneDrive - Atlantic TU\Sem1\Intro_to_Programming1_Sem1\IOT\Code\CodeDemo1\bin\Debug\net6.0\CodeDemo1.exe
+C:\Users\Con Doyle\OneDrive - Atlantic TU\Sem1\Intro_to_Programming1_Sem1\IOT\Code\CodeDemo1\bin\Debug\net6.0\CodeDemo1.deps.json
+C:\Users\Con Doyle\OneDrive - Atlantic TU\Sem1\Intro_to_Programming1_Sem1\IOT\Code\CodeDemo1\bin\Debug\net6.0\CodeDemo1.runtimeconfig.json
+C:\Users\Con Doyle\OneDrive - Atlantic TU\Sem1\Intro_to_Programming1_Sem1\IOT\Code\CodeDemo1\bin\Debug\net6.0\CodeDemo1.dll
+C:\Users\Con Doyle\OneDrive - Atlantic TU\Sem1\Intro_to_Programming1_Sem1\IOT\Code\CodeDemo1\bin\Debug\net6.0\CodeDemo1.pdb
+C:\Users\Con Doyle\OneDrive - Atlantic TU\Sem1\Intro_to_Programming1_Sem1\IOT\Code\CodeDemo1\obj\Debug\net6.0\CodeDemo1.dll
+C:\Users\Con Doyle\OneDrive - Atlantic TU\Sem1\Intro_to_Programming1_Sem1\IOT\Code\CodeDemo1\obj\Debug\net6.0\refint\CodeDemo1.dll
+C:\Users\Con Doyle\OneDrive - Atlantic TU\Sem1\Intro_to_Programming1_Sem1\IOT\Code\CodeDemo1\obj\Debug\net6.0\CodeDemo1.pdb
+C:\Users\Con Doyle\OneDrive - Atlantic TU\Sem1\Intro_to_Programming1_Sem1\IOT\Code\CodeDemo1\obj\Debug\net6.0\CodeDemo1.genruntimeconfig.cache
+C:\Users\Con Doyle\OneDrive - Atlantic TU\Sem1\Intro_to_Programming1_Sem1\IOT\Code\CodeDemo1\obj\Debug\net6.0\ref\CodeDemo1.dll
