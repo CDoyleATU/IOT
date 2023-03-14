@@ -1,0 +1,1 @@
+IR Sensor needs to be pointing at a matte black background. This will set the default reading to 0 and 1 when a coin is detected.
