@@ -1,0 +1,54 @@
+#include <YunClient.h>
+#include <YunServer.h>
+#include <Bridge.h>
+
+const char* host = "api.pushingbox.com";
+const int port = 80;
+
+void setup() {
+  // Initialize the Bridge
+  Bridge.begin();
+
+  // Serial communication for debugging
+  Serial.begin(9600);
+  while (!Serial);
+
+  // Wait for a connection to be established with the Linux side
+  delay(2000);
+}
+
+void loop() {
+  // Establish a connection with the PushingBox API
+  YunClient client = YunClient();
+  if (client.connect(host, port)) {
+    // Build the HTTP request
+    String request = "GET /pushingbox?devid=DEVICE_ID HTTP/1.1\r\n";
+    request += "Host: api.pushingbox.com\r\n";
+    request += "User-Agent: ArduinoYun\r\n";
+    request += "Connection: close\r\n";
+    request += "\r\n";
+
+    // Send the request
+    client.print(request);
+
+    // Read the response
+    while (client.connected()) {
+      String line = client.readStringUntil('\n');
+      if (line == "\r") {
+        // End of headers
+        break;
+      }
+    }
+
+    String response = client.readString();
+    Serial.println(response);
+
+    // Close the connection
+    client.stop();
+  } else {
+    Serial.println("Connection failed.");
+  }
+
+  // Wait for 1 minute before sending another request
+  delay(60000);
+}
